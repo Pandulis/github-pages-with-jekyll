@@ -1,6 +1,7 @@
+---
 title: "Decision making"
 date: 2020-01-30
-
+---
 
 Today topic 
 
